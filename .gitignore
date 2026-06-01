@@ -1,34 +1,16 @@
 # Python
 __pycache__/
-*.py[cod]
-*.pyo
-*.pyd
-.Python
-env/
-venv/
+*.pyc
 .env
-*.egg-info/
-dist/
-build/
+venv/
 
 # Node
 node_modules/
-npm-debug.log
-.npm
+dist/
 
 # Docker
 .dockerignore
 
-# VS Code
-.vscode/
-
 # OS
 .DS_Store
 Thumbs.db
-
-# Database
-*.sqlite3
-*.db
-
-# Logs
-*.log
